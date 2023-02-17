@@ -1,3 +1,4 @@
+[中文版本](https://github.com/xiaoguan0/goswl/blob/main/README.md)
 # goswl
 
 # Cause
