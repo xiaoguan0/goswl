@@ -1,3 +1,4 @@
+#xiaoguanstudio
 import os
 
 wsla = input("请输入要切换的系统： ")
