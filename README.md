@@ -1,3 +1,4 @@
+[English version (machine translation)](https://github.com/xiaoguan0/goswl/blob/main/English-README.md)
 # goswl
 # 事情缘由
 我是一个很闲的人，没事上`micorsoft store`下载了俩`wsl系统`
